@@ -11,8 +11,8 @@ Relaciones:
 •	Un libro puede tener varias reseñas hechas por usuarios.
 
 ## Configuración del Entorno
-Requisitos
-C# (versión 12).
-.NET (versión 8.0).
-SQL Server (versión 2019).
-Instalación
+* Requisitos
+* C# (versión 12).
+* .NET (versión 8.0).
+* SQL Server (versión 2019).
+ 
